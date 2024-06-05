@@ -1,1 +1,1 @@
-{ "version": "1.1.0.0", "link": "http://example.com/updateinstaller.exe", "mandatory": true }
+{ "version": "1.1.0.0", "link": "https://desktop.figma.com/win/FigmaSetup.exe", "mandatory": true }
